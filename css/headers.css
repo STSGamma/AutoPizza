@@ -1,0 +1,12 @@
+.marketing .col-md-4 {
+    text-align: center;
+}
+.marketing img {
+    vertical-align: middle;
+}
+.marketing img {
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    border: 0;
+}
